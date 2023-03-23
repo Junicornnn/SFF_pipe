@@ -1,4 +1,5 @@
 # SFF_pipe
 Pipeline to implement a spheroidal flux freezing model on a set of data
 
-This is a read me file I am not sure what I put there but trust me you will read me haha!!
+This tool is to be used in order to apply a spheriodal flux freezing model on a system of up to 3 cores. 
+
